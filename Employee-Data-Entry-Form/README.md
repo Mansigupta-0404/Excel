@@ -1,8 +1,10 @@
 # Employee Data Entry Form
 
 ## Project Overview
-An Excel-based employee data entry application designed to enter,
-calculate, and maintain employee information in a structured format.
+An Excel-based employee data entry application designed to enter, calculate, and maintain employee information in a structured format.
+
+## Dashboard Preview
+![Dashboard Preview](image.png)
 
 ## Features
 - Employee data entry form
