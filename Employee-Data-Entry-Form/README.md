@@ -4,7 +4,7 @@
 An Excel-based employee data entry application designed to enter, calculate, and maintain employee information in a structured format.
 
 ## Dashboard Preview
-![Dashboard Preview](image.png)
+![Dashboard Preview](Image.png)
 
 ## Features
 - Employee data entry form
