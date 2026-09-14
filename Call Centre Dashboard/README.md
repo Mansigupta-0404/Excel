@@ -3,7 +3,6 @@
 ## 📊 Project Overview
 This project is an interactive Call Centre Performance Dashboard developed using Microsoft Excel.
 The dashboard is designed to analyze call centre performance through key metrics such as Working Hours, Active Customers, and Calls Attended.
-The project combines Excel Dashboarding, Pivot Tables, Data Analysis, and VBA Macros to create an interactive and user-friendly reporting solution.
 # 📷 Dashboard Preview
 ![Call Centre Dashboard](Call%20Centre%20dashboard%20image.png)
 ## 🎯 Objectives
