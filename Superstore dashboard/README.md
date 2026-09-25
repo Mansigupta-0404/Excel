@@ -3,7 +3,7 @@
 
 The following insights were derived from the Superstore Sales & Profit Dashboard using Excel Pivot Tables, Pivot Charts, slicers, and interactive visualizations.
 ## Dashboard Preview
-![Dashboard Preview](Image.png)
+<img src="dashboard%20image.png" alt="Superstore Sales Dashboard">
 💰 Overall Performance
 
 Total Sales: $2.30M
